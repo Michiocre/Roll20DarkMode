@@ -1881,7 +1881,6 @@ div.sheet-rolltemplate-desc div.sheet-desc.sheet-info .sheet-bottom {
         setTimeout(waitForDepts, 10);
         return;
       }
-
       document.head.appendChild(node);
     };
     setTimeout(waitForDepts, 10);
