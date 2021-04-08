@@ -1867,8 +1867,7 @@ div.sheet-rolltemplate-desc div.sheet-desc.sheet-info .sheet-bottom {
 .r20es-welcome {
     background-color: hsl(0,0%,10%) !important;
     color: hsl(0,0%,75%) !important;
-}
-`;
+}`;
   if (typeof GM_addStyle != "undefined") {
     GM_addStyle(css);
   } else if (typeof PRO_addStyle != "undefined") {
@@ -1880,7 +1879,7 @@ div.sheet-rolltemplate-desc div.sheet-desc.sheet-info .sheet-bottom {
     node.type = "text/css";
     node.innerHTML = css;
 
-	
+
     // Note(stormy): wait for document.head to be available
     const interval = 10;
     const waitForDepts = () => {
