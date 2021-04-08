@@ -1,12 +1,15 @@
 // ==UserScript==
-// @name          Roll20 Dark Edit
+// @name          Roll20 Dark Mode
 // @description	  A dark theme for Roll20.net.
-// @author        RedReign feat. Michiocre
+// @copyright     2021, Michiocre
+// @license       GPL-3.0-or-later
+// @updateURL     https://openuserjs.org/meta/Michiocre/My_Script.meta.js
+// @version       2021.04.08.1
+// @author        Michiocre
+// @collaborator  RedReign
 // @include       https://app.roll20.net/editor/
 // @include       https://app.roll20.net/campaigns/chatarchive*
 // @run-at        document-start
-// @version       2021.04.06.1
-// @license       GPL-3.0-or-later
 // ==/UserScript==
 (function () {
   var css = `
