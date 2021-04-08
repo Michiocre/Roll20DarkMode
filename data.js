@@ -1880,6 +1880,7 @@ div.sheet-rolltemplate-desc div.sheet-desc.sheet-info .sheet-bottom {
     node.type = "text/css";
     node.innerHTML = css;
 
+	
     // Note(stormy): wait for document.head to be available
     const interval = 10;
     const waitForDepts = () => {
