@@ -3,13 +3,18 @@
 // @description		A dark theme for Roll20.net.
 // @version			2021.04.08.1
 // @author			Michiocre
-// @collaborator	RedReign
 // @license			GPL-3.0-or-later
 // @include			https://app.roll20.net/editor/
 // @include			https://app.roll20.net/campaigns/chatarchive*
 // @updateURL		https://openuserjs.org/meta/Michiocre/My_Script.meta.js
 // @run-at			document-start
 // ==/UserScript==
+
+// ==OpenUserJS==
+// @author 			Michiocre
+// @collaborator	RedReign
+// ==/OpenUserJs==
+
 (function () {
   var css = `
 #page-toolbar .container::-webkit-scrollbar-thumb {
