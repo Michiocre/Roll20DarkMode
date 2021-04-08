@@ -2,7 +2,7 @@
 // @name			Roll20 Dark Mode
 // @description		A dark theme for Roll20.net.
 // @version			2021.04.08.1
-// @author			Michiocre
+// @author			Michiocre, RedReign
 // @license			GPL-3.0-or-later
 // @include			https://app.roll20.net/editor/
 // @include			https://app.roll20.net/campaigns/chatarchive*
@@ -12,7 +12,6 @@
 
 // ==OpenUserJS==
 // @author 			Michiocre
-// @collaborator	RedReign
 // ==/OpenUserJs==
 
 (function () {
