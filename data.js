@@ -9,6 +9,7 @@
 // @include			https://app.roll20.net/campaigns/chatarchive*
 // @updateURL		https://openuserjs.org/meta/Michiocre/My_Script.meta.js
 // @run-at			document-start
+// @grant none
 // ==/UserScript==
 
 // ==OpenUserJS==
