@@ -1,9 +1,10 @@
 // ==UserScript==
+// @namespace		https://openuserjs.org/users/Michiocre
 // @name			Roll20 Dark Mode
 // @description		A dark theme for Roll20.net.
-// @version			2021.04.08.1
-// @author			Michiocre, RedReign
+// @copyright		2021, Michiocre (https://openuserjs.org/users/Michiocre)
 // @license			GPL-3.0-or-later
+// @version			2021.04.08.1
 // @include			https://app.roll20.net/editor/
 // @include			https://app.roll20.net/campaigns/chatarchive*
 // @updateURL		https://openuserjs.org/meta/Michiocre/My_Script.meta.js
